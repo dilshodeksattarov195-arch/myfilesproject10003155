@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpalidate",
+        "uuid": 25012840,
+        "checksum": "33dsrk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
